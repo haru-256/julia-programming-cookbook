@@ -41,7 +41,7 @@ pkg1 = [(name="StatsBase", version="0.31.0"),
         (name="Cascadia", version="0.4.0"),
         (name="UnicodePlots", version="1.1.0"),
         (name="ParallelDataTransfer", version="0.5.0")]
-        
+
 foreach(addandpin, pkg1)
 
 # packages that depend on Python Anaconda
